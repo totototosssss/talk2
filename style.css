@@ -49,7 +49,7 @@ html { scroll-behavior: smooth; font-size: 16px; height: 100%; }
 
 body {
     font-family: var(--font-family-body);
-    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.88)), url('back.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.88)), url('IMG_8350.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
